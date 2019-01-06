@@ -1,0 +1,4 @@
+_pauling_file_object_repr      S-A3459
+_pauling_file_object_version   1.0.0
+_pauling_file_entry            S307944
+_pauling_file_entry_reference  https://mpds.io/#entry/S307944

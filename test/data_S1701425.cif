@@ -1,0 +1,70 @@
+data_S1701425
+_cell_length_a    5.720500
+_cell_length_b    5.720500
+_cell_length_c    9.270000
+_cell_angle_alpha 90.000000
+_cell_angle_beta  90.000000
+_cell_angle_gamma 90.000000
+_symmetry_Int_Tables_number    141
+_symmetry_space_group_name_H-M I41/amd
+_symmetry_cell_setting         tetragonal
+_pauling_file_object_repr      S-A3459
+_pauling_file_object_version   1.0.0
+_pauling_file_entry            S1701425
+_pauling_file_entry_reference  https://mpds.io/#entry/S1701425
+_pauling_file_phase            Mn2CoO4/141/tI28
+_pauling_file_phase_reference  https://mpds.io/#phase/Mn2CoO4/141/tI28
+
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1 -x+1/2,-y+1/2,z+1/2
+ 2 -x+1/2,-y,-z+3/4
+ 3 -x+1/2,y+1/2,z+1/2
+ 4 -x+1/2,y,-z+3/4
+ 5 -x,-y+1/2,-z+1/4
+ 6 -x,-y,z
+ 7 -x,y+1/2,-z+1/4
+ 8 -x,y,z
+ 9 -y+1/2,-x+1/2,-z+1/2
+ 10 -y+1/2,-x,z+3/4
+ 11 -y+1/2,x+1/2,-z+1/2
+ 12 -y+1/2,x,z+3/4
+ 13 -y,-x+1/2,z+1/4
+ 14 -y,-x,-z
+ 15 -y,x+1/2,z+1/4
+ 16 -y,x,-z
+ 17 x+1/2,-y+1/2,z+1/2
+ 18 x+1/2,-y,-z+3/4
+ 19 x+1/2,y+1/2,z+1/2
+ 20 x+1/2,y,-z+3/4
+ 21 x,-y+1/2,-z+1/4
+ 22 x,-y,z
+ 23 x,y+1/2,-z+1/4
+ 24 x,y,z
+ 25 y+1/2,-x+1/2,-z+1/2
+ 26 y+1/2,-x,z+3/4
+ 27 y+1/2,x+1/2,-z+1/2
+ 28 y+1/2,x,z+3/4
+ 29 y,-x+1/2,z+1/4
+ 30 y,-x,-z
+ 31 y,x+1/2,z+1/4
+ 32 y,x,-z
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_atomic_num
+ _atom_site_periodic_num
+ _atom_site_linus_pauling_num
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O_1       O       8  100    2  0.0000  0.5500  0.2250  1.0000
+ Mn_1      Mn     25   58   67  0.0000  0.0000  0.0000  1.0000
+ Co_1      Co     27   66   87  0.0000  0.2500  0.3750  1.0000
+
+#
+# end of data item S1701425
+#

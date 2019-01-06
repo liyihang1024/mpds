@@ -1,0 +1,4 @@
+_symmetry_cell_setting         cubic
+_pauling_file_object_repr      S-A3459
+_pauling_file_object_version   1.0.0
+_pauling_file_entry            S1640947

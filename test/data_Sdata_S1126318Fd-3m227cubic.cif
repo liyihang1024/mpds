@@ -1,0 +1,4 @@
+_cell_length_a    9.318500
+_cell_length_b    9.318500
+_cell_length_c    9.318500
+_cell_angle_alpha 90.000000

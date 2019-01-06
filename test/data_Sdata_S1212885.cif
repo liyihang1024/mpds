@@ -1,0 +1,4 @@
+_pauling_file_entry            S557007
+_pauling_file_entry_reference  https://mpds.io/#entry/S557007
+_pauling_file_phase            Fe2.40Al0.27O4/227/cF56
+_pauling_file_phase_reference  https://mpds.io/#phase/Fe2.40Al0.27O4/227/cF56

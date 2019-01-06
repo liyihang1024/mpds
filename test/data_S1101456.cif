@@ -1,0 +1,64 @@
+data_S1101456
+_cell_length_a    8.083000
+_cell_length_b    8.083000
+_cell_length_c    8.083000
+_cell_angle_alpha 90.000000
+_cell_angle_beta  90.000000
+_cell_angle_gamma 90.000000
+_symmetry_Int_Tables_number    216
+_symmetry_space_group_name_H-M F-43m
+_symmetry_cell_setting         cubic
+_pauling_file_object_repr      S-A3459
+_pauling_file_object_version   1.0.0
+_pauling_file_entry            S1101456
+_pauling_file_entry_reference  https://mpds.io/#entry/S1101456
+_pauling_file_phase            Co3O4/216/cF56
+_pauling_file_phase_reference  https://mpds.io/#phase/Co3O4/216/cF56
+
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1 -x,-y,z
+ 2 -x,-z,y
+ 3 -x,y,-z
+ 4 -x,z,-y
+ 5 -y,-x,z
+ 6 -y,-z,x
+ 7 -y,x,-z
+ 8 -y,z,-x
+ 9 -z,-x,y
+ 10 -z,-y,x
+ 11 -z,x,-y
+ 12 -z,y,-x
+ 13 x,-y,-z
+ 14 x,-z,-y
+ 15 x,y,z
+ 16 x,z,y
+ 17 y,-x,-z
+ 18 y,-z,-x
+ 19 y,x,z
+ 20 y,z,x
+ 21 z,-x,-y
+ 22 z,-y,-x
+ 23 z,x,y
+ 24 z,y,x
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_atomic_num
+ _atom_site_periodic_num
+ _atom_site_linus_pauling_num
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O_1       O       8  100    2  0.6100  0.6100  0.6100  1.0000
+ Co_1      Co     27   66   87  0.7500  0.7500  0.7500  1.0000
+ O_2       O       8  100    2  0.1400  0.1400  0.1400  1.0000
+ Co_2      Co     27   66   87  0.3750  0.3750  0.3750  1.0000
+ Co_3      Co     27   66   87  0.0000  0.0000  0.0000  1.0000
+
+#
+# end of data item S1101456
+#

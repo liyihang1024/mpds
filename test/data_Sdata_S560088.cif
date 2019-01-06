@@ -1,0 +1,4 @@
+ 192 z,y,x
+
+loop_
+ _atom_site_label

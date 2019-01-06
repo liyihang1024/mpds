@@ -1,0 +1,4 @@
+_pauling_file_phase            FeAl2O4/227/cF56
+_pauling_file_phase_reference  https://mpds.io/#phase/FeAl2O4/227/cF56
+
+loop_

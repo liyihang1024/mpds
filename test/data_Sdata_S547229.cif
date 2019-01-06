@@ -1,0 +1,4 @@
+# end of data item S307892
+#
+data_S307944
+_cell_length_a    8.158000

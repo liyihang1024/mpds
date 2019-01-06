@@ -1,0 +1,4 @@
+_pauling_file_entry_reference  https://mpds.io/#entry/S307892
+_pauling_file_phase            Fe0.88Al1.78O4/227/cF56
+_pauling_file_phase_reference  https://mpds.io/#phase/Fe0.88Al1.78O4/227/cF56
+

@@ -1,0 +1,4 @@
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_atomic_num

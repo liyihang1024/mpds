@@ -1,0 +1,4 @@
+_pauling_file_entry_reference  https://mpds.io/#entry/S1620225
+_pauling_file_phase            Ag2[MoO4]/227/cF56
+_pauling_file_phase_reference  https://mpds.io/#phase/Ag2[MoO4]/227/cF56
+

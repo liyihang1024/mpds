@@ -1,0 +1,4 @@
+_pauling_file_object_version   1.0.0
+_pauling_file_entry            S1640946
+_pauling_file_entry_reference  https://mpds.io/#entry/S1640946
+_pauling_file_phase            Ag2[MoO4]/227/cF56
